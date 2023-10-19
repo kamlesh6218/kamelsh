@@ -1,0 +1,10 @@
+  #include<iostream>
+  using namespace std;
+   class student
+   {
+   int prn;
+   float per;
+   char name;
+   viod show()
+   {
+   cout<<"the prn is=<<
